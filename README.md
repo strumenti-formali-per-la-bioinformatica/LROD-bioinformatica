@@ -21,7 +21,7 @@ continua. A differenza delle short reads, le long reads permettono un assemblagg
 	cd LROD
 	make all
 ```
-4) Running.
+4) Esecuzione.
 ```
     Step 1: Usa DSK per creare il file con le frequenze dei k-mers.
         dsk -file <long-read-file.fa>  -kmer-size 15
