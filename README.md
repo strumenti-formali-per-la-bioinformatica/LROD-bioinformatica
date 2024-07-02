@@ -15,6 +15,7 @@ Questo lavoro presenta l'analisi di un algoritmo di overlap detection a lettura 
 2) Prima dell'installazione e dell'esecuzione
 ```
     E' necessario installare DSK, un programma di conteggio dei k-mers, per calcolare la frequenza di ciascun k-mer nel dataset.
+    Link per la procedura di installazione https://github.com/GATB/dsk.
 ```
 3) Installazione.
 ```
