@@ -1,0 +1,2 @@
+Missing long read file!
+For detailed usage of LROD, please command: -h or -help!
